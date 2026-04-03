@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+.pytest_cache/
+
+backend/.venv/
+backend/.venv312/
+backend/**/*.pyc
+
+frontend/node_modules/
+
+sql/*.out
